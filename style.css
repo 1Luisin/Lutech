@@ -1,24 +1,14 @@
-#body{
+#cabecalho{
+    
+    display: block;
+    background-color:black;
+    font: white, Arial;
+    align-content: center;
     text-align: center;
-    color: #4a4992;
 }
 
-.logo{
-    display: flex;
-    justify-content: flex-start;
-    block-size: 150px;
+
+#rodapé{
+
 }
 
-#rodape{
-    background-color: #4a4992;
-}
-
-.imgs{
-    width: 200px;
-    height: 150px;
-}
-
-#display{
-    display: flex;
-    justify-content: flex-end;
-}
