@@ -8,15 +8,15 @@ body{
 
 #area-cabecalho{
     
-    border: 1px solid rgb(0, 0, 0);
-    background-color:cadetblue;
+    border: 1px solid rgb(0, 28, 70);
+    background-color:rgb(59, 123, 126);
     text-align: center;
 }
 
 #area-menu{
 
     padding: 10px;
-    margin:px;
+    margin:0px;
 
 }
 #area-logo{
@@ -24,3 +24,9 @@ body{
     display:block;
 }
 
+#area-principal{
+    background-color: rgba(59, 123, 126, 0.39);
+    margin: 0 auto;
+    width: 920px;
+    border: 2px solid rgba(59, 123, 126)
+}
