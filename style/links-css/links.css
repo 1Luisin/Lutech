@@ -1,6 +1,7 @@
 .links{
 
     text-decoration: none; /*underline desativado no link*/
+    font-size: 18px;
 }
 
 .links:link, .links:visited{ /*Links não visitados ainda*/

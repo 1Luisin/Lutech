@@ -13,11 +13,14 @@ body{
     text-align: center;
 }
 
-#area-logo{
-    
-}
-
 #area-menu{
 
+    padding: 10px;
+    margin:px;
+
+}
+#area-logo{
+
+    display:block;
 }
 
