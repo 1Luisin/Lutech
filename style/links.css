@@ -3,7 +3,7 @@
     text-decoration: none; /*underline desativado no link*/
 }
 
-.links:link{ /*Links não visitados ainda*/
+.links:link, .links:visited{ /*Links não visitados ainda*/
     color:black;
 }
 

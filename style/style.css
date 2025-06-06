@@ -1,10 +1,22 @@
 body{
+    font-size:1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin:0;
     padding:0;
 }
 
-#cabecalho{
+
+#area-cabecalho{
     
-    border: 1px solid red;
-    
+    border: 1px solid rgb(0, 0, 0);
+    background-color:cadetblue;
+    text-align: center;
+}
+
+#area-logo{
+
+}
+
+#area-menu{
+
 }
