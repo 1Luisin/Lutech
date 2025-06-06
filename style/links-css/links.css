@@ -5,11 +5,11 @@
 }
 
 .links:link, .links:visited{ /*Links não visitados ainda*/
-    color:black;
+    color:rgb(1, 21, 48);
 }
 
 .links:visited{ /*Links visitados */
-    color:black;
+    color:rgb(1, 21, 48);
 }
 
 .links:hover{ /*Links quando passado o mouse em cima*/
@@ -18,6 +18,6 @@
 }
 
 .links:active{ /*links quando clicados*/
-    color:rgb(0, 35, 58);
+    color:aliceblue;
 
 }
