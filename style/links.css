@@ -1,0 +1,21 @@
+.links{
+
+    text-decoration: none;
+}
+
+.links:link{
+    color:black;
+}
+
+.links:visited{
+    color:black;
+}
+
+.links:hover{
+    color:rgb(0, 35, 58);
+}
+
+.links:active{
+    color:rgb(0, 35, 58);
+
+}
